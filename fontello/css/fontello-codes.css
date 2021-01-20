@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+ 
+.icon-home:before { content: '\2302'; } /* '⌂' */
+.icon-ok-circle:before { content: '\2714'; } /* '✔' */
+.icon-comment:before { content: '\e718'; } /* '' */
+.icon-emo-wink2:before { content: '\e813'; } /* '' */
+.icon-cab:before { content: '\f1b9'; } /* '' */
+.icon-phone:before { content: '📞'; } /* '\1f4de' */
