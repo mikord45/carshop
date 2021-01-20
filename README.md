@@ -12,6 +12,7 @@ Administrator posiada te trzy funkcjonalności, natomiast moderator pierwsze dwi
 
 login data:
 login: admin1     password: test123
+
 login: moderator1 password: test123
 
 .sql file should be imported to MySql database called "komis"
