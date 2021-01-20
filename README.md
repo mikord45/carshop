@@ -16,6 +16,7 @@ Administrator posiada te trzy funkcjonalności, natomiast moderator pierwsze dwi
 -połączenie z baza danych
 
 login data:
+
 login: admin1     password: test123
 
 login: moderator1 password: test123
